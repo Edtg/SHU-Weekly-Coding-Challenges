@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenges", "Challenges", "{ECA2DA9F-305C-48E3-8B6B-03BA53D22A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01FizzBuzz", "01FizzBuzz\01FizzBuzz.csproj", "{A8FA475C-FA1C-4877-BCDA-4FF26134A63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FA475C-FA1C-4877-BCDA-4FF26134A63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FA475C-FA1C-4877-BCDA-4FF26134A63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FA475C-FA1C-4877-BCDA-4FF26134A63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FA475C-FA1C-4877-BCDA-4FF26134A63B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A8FA475C-FA1C-4877-BCDA-4FF26134A63B} = {ECA2DA9F-305C-48E3-8B6B-03BA53D22A9A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1051FA2D-94E7-4881-AA2D-E875C9CB0582}
+	EndGlobalSection
+EndGlobal
